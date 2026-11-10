@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Array"
+		},
+		{
+			"path": "../Linkedlist"
+		},
+		{
+			"path": "../Queue"
+		},
+		{
+			"path": "../Stack"
+		},
+		{
+			"path": "../Tree"
+		},
+		{
+			"path": "."
+		}
+	]
+}
